@@ -4,7 +4,9 @@
 Saya Imam Chalish Rafidhul Haque NIM 2207260 mengerjakan soal Latihan Praktikum 2 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 Desain Kelas Product punya anak Clothing punya anak Shirt
+
 Alasan : Product paling luas semakin kebawah semakin mendetail sampai ukurannya, tipe lengannya tidak hanya namanya saja
+
 
 Penjelasan Alur:
 1. Pengguna diminta memasukkan inputan berapa objek yang ingin dibuat
