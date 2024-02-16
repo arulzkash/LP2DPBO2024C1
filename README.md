@@ -1,5 +1,5 @@
 
-# Project Title
+# LP2DPBO2024C
 
 Saya Imam Chalish Rafidhul Haque NIM 2207260 mengerjakan soal Latihan Praktikum 1 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
@@ -9,6 +9,7 @@ Alasan : Product paling luas semakin kebawah semakin mendetail sampai ukurannya,
 Penjelasan Alur:
 1. Pengguna diminta memasukkan inputan berapa objek yang ingin dibuat
 2. Memasukkan Color, Sleeve Type, Size, Material, Gender, IDProduct, Name, Brand, Price untuk tiap objek
+3. Menampilkan list tabel
 
 
 ## Screenshots
