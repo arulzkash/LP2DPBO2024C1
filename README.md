@@ -15,6 +15,7 @@ Penjelasan Alur:
 
 
 ## Screenshots
-[Screenshot_4](https://github.com/arulzkash/LP2DPBO2024C1/assets/73780374/b66bbcfb-ab76-4c61-8112-ccb779cc32d3)
-
-
+[Java](https://github.com/arulzkash/LP2DPBO2024C1/assets/73780374/b66bbcfb-ab76-4c61-8112-ccb779cc32d3)
+[PHP](https://github.com/arulzkash/LP2DPBO2024C1/assets/73780374/e9c234fc-c2c9-4a5d-a3e3-0b2fe113e9c8)
+[Python](https://github.com/arulzkash/LP2DPBO2024C1/assets/73780374/9640fd42-e9a7-4ea5-9a96-45a173581222)
+[C++](https://github.com/arulzkash/LP2DPBO2024C1/assets/73780374/1621ddce-4902-40ce-9ae3-f578299f8cbe)
